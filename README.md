@@ -1,0 +1,1 @@
+This repository contains the notes which is needed to start angular projects.
