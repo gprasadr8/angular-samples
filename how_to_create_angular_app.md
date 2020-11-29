@@ -17,6 +17,7 @@
 
 ```reStructuredText
 $ ng new my-first-app
+Note: Angular CLI will generate the required files and folders, install the packages from npm, and even automatically set up routing in our project.
 $ cd my-first-app
 $ code .
 It will open project in VS Code 
